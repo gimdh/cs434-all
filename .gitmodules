@@ -1,0 +1,63 @@
+[submodule "cs434-assign/ymfact"]
+	path = cs434-assign/ymfact
+	url = https://github.com/ymfact/cs434-assign.git
+[submodule "cs434-assign/HoOngEe"]
+	path = cs434-assign/HoOngEe
+	url = https://github.com/HoOngEe/cs434-assign.git
+[submodule "cs434-assign/GNUp"]
+	path = cs434-assign/GNUp
+	url = https://github.com/GNUp/cs434-assign.git
+[submodule "cs434-assign/dgggit"]
+	path = cs434-assign/dgggit
+	url = https://github.com/dgggit/cs434-assign.git
+[submodule "cs434-assign/physicube"]
+	path = cs434-assign/physicube
+	url = https://github.com/physicube/cs434-assign.git
+[submodule "cs434-assign/pys7293"]
+	path = cs434-assign/pys7293
+	url = https://github.com/pys7293/cs434-assign.git
+[submodule "cs434-assign/KisukPark"]
+	path = cs434-assign/KisukPark
+	url = https://github.com/KisukPark/cs434-assign.git
+[submodule "cs434-project/ymfact"]
+	path = cs434-project/ymfact
+	url = https://github.com/ymfact/cs434-project.git
+[submodule "cs434-project/HoOngEe"]
+	path = cs434-project/HoOngEe
+	url = https://github.com/HoOngEe/cs434-project.git
+[submodule "cs434-project/GNUp"]
+	path = cs434-project/GNUp
+	url = https://github.com/GNUp/cs434-project.git
+[submodule "cs434-project/dgggit"]
+	path = cs434-project/dgggit
+	url = https://github.com/dgggit/cs434-project.git
+[submodule "cs434-project/physicube"]
+	path = cs434-project/physicube
+	url = https://github.com/physicube/cs434-project.git
+[submodule "cs434-project/pys7293"]
+	path = cs434-project/pys7293
+	url = https://github.com/pys7293/cs434-project.git
+[submodule "cs434-project/KisukPark"]
+	path = cs434-project/KisukPark
+	url = https://github.com/KisukPark/cs434-project.git
+[submodule "cs434-doc/ymfact"]
+	path = cs434-doc/ymfact
+	url = https://github.com/ymfact/cs434-doc.git
+[submodule "cs434-doc/HoOngEe"]
+	path = cs434-doc/HoOngEe
+	url = https://github.com/HoOngEe/cs434-doc.git
+[submodule "cs434-doc/GNUp"]
+	path = cs434-doc/GNUp
+	url = https://github.com/GNUp/cs434-doc.git
+[submodule "cs434-doc/dgggit"]
+	path = cs434-doc/dgggit
+	url = https://github.com/dgggit/cs434-doc.git
+[submodule "cs434-doc/physicube"]
+	path = cs434-doc/physicube
+	url = https://github.com/physicube/cs434-doc.git
+[submodule "cs434-doc/pys7293"]
+	path = cs434-doc/pys7293
+	url = https://github.com/pys7293/cs434-doc.git
+[submodule "cs434-doc/KisukPark"]
+	path = cs434-doc/KisukPark
+	url = https://github.com/KisukPark/cs434-doc.git
